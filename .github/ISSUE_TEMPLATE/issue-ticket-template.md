@@ -1,6 +1,6 @@
 ---
-name: Issue Ticket Template FE
-about: Template for front end issue tickets
+name: Issue Ticket Template
+about: Template for issue tickets
 title: ''
 labels: ''
 assignees: ''
